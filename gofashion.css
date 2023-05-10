@@ -1,0 +1,272 @@
+#sidebar{
+    width: 7%;
+    background-color: rgb(140, 213, 255);
+}
+
+.menuform{
+    margin: 0 160px 0 200px;
+}
+
+.nav{
+    font-family: 'Roboto', sans-serif;
+}
+
+.lunas{
+    background-color: yellow;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.tanda{
+    background-color: #50b8fd;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+}
+.tanda:hover{
+    background-color: #506afd;
+    border: none;
+}
+
+.statusbl{
+    background-color: red;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.statusl{
+    background-color: #49FF00;
+    border-radius: 20px;
+}
+
+.fontform{
+    text-align: center;
+    font-size: 45px;
+    padding-top: 23px;
+    font-family: 'Karla', sans-serif;
+}
+
+.fe{
+    font-family: 'M PLUS 2', sans-serif;
+    font-size: 16px;
+}
+
+.fontform1{
+    text-align: center;
+    font-size: 45px;
+    padding-top: 23px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.tambahdata{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+}
+
+.menu{
+    margin-left: 130px;
+    margin-right: 35px;
+    padding-top: 10px;
+}
+
+.fontoutput{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.awal{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    box-shadow: 5px 5px 3px rgb(133, 133, 133);
+}
+
+.eror{
+    text-align: center;
+    padding: 13px 10px 13px 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px rgb(133, 133, 133);
+}
+
+.berhasil{
+    text-align: center;
+    padding: 18px 0px 18px 6px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px rgb(133, 133, 133);
+}
+
+.formlogin{
+    padding-right: 35px;
+    padding-left: 15px;
+    margin-left: 4%;
+    
+}
+
+h1{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.buttonlogin{
+    border-radius: 20px;
+    background-color: #7064fc;
+    margin-top: 2%;
+    width: 100%;
+    border: none;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.fasb{
+    padding-left: 16px;
+}
+
+.pl{
+    text-align: center;
+}
+
+.buttonlogin:hover{
+    background-color: #a299fd;
+}
+
+.bp{
+    border-radius: 8px;
+    border: none;
+    background-color: #CAB8FF;
+    padding: 3px 6px 3px 6px;
+    margin-bottom: 13px;
+    font-family: 'Shippori Antique', sans-serif;
+}
+
+.bp:hover{
+    background-color: #da6afc;
+    font-family: 'Shippori Antique', sans-serif;
+}
+
+.ba{
+    border-radius: 8px;
+    border: none;
+    background-color: #CAB8FF;
+    padding: 3px 6px 3px 6px;
+    margin-bottom: 13px;   
+}
+
+.toptable{
+    background-color: #A0E7E5;
+}
+
+table{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+}
+
+.edit{
+    margin-right: 5px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 6px;
+    text-decoration: none;
+    background-color: rgb(172, 255, 104);
+    color: black;
+}
+
+.edit:hover{
+    color: black;
+    background-color: rgb(33, 235, 94);
+}
+
+.delete{
+    padding: 3px 4px 3px 4px;
+    border-radius: 6px;
+    text-decoration: none;
+    background-color: rgb(255, 108, 108);
+    color: black;
+}
+
+.delete:hover{
+    color: black;
+    background-color: rgb(255, 44, 44);
+}
+
+.buttonedit{
+    border-radius: 5px;
+    border: none;
+    background-color: #27d160;
+    padding: 4px 30px 4px 30px;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+}
+
+.buttonedit:hover{
+    background-color: #75ff68;
+    font-family: 'Cabin', sans-serif;
+}
+
+.buttonback{
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    color: black;
+    background-color: #708fff;
+    padding: 4px 30px 4px 30px;
+    margin-bottom: 30px;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+}
+
+.buttonback:hover{
+    color: black;
+    background-color: #88cfff;
+}
+
+.buttonedit1{
+    border-radius: 5px;
+    border: none;
+    background-color: #27d160;
+    padding: 4px 30px 4px 30px;
+    font-family: 'Heebo', sans-serif;
+    font-size: 16px;
+}
+
+.buttonedit1:hover{
+    background-color: #75ff68;
+    font-family: 'Cabin', sans-serif;
+}
+
+.buttonback1{
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    color: black;
+    background-color: #708fff;
+    padding: 4px 30px 4px 30px;
+    margin-bottom: 30px;
+    font-family: 'Heebo', sans-serif;
+    font-size: 16px;
+}
+
+.buttonback1:hover{
+    color: black;
+    background-color: #88cfff;
+}
+
+.buttonbeli{
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    color: black;
+    background-color: #91ff70;
+    padding: 4px 40px 4px 40px;
+    margin-bottom: 30px;
+}
+
+.buttonbeli:hover{
+    color: black;
+    background-color: #00ff62;
+}
